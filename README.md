@@ -35,6 +35,12 @@ Choose from 7 developer-favorite themes and 9 font families. Designed specifical
 
 ![Themes](screenshots/themes.png)
 
+### Python Runtime Management
+
+Manage your Python environment with ease. Switch between system Python and virtual environments, and install packages visually.
+
+![Python Runtime](screenshots/python-runtime.png)
+
 ## Links
 
 - [Website](https://coilpad.com/)
